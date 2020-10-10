@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name = "AndroidSource"
+include ':apiDemos'
+include ':compass'
+include ':jetBoy'
+include ':spinner'
